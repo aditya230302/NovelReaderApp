@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyImages">
+        <item>https://media.novelbin.com/novel_150_223/martial-god-asura-novel.jpg</item>
+        <item>https://media.novelbin.com/novel_150_223/emperors-domination.jpg</item>
+        <item>https://media.novelbin.com/novel_150_223/nine-star-hegemon-body-arts.jpg</item>
+        <item>https://media.novelbin.com/novel_150_223/super-gene.jpg</item>
+        <item>https://media.novelbin.com/novel/complete-martial-arts-attributes.jpg</item>
+        <item>https://media.novelbin.com/novel/reincarnation-of-the-strongest-sword-god.jpg</item>
+        <item>https://media.novelbin.com/novel/overgeared-novel.jpg</item>
+        <item>https://media.novelbin.com/novel/the-ancient-genes.jpg</item>
+        <item>https://media.novelbin.com/novel/historys-strongest-senior-brother.jpg</item>
+    </string-array>
+</resources>

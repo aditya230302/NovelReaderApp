@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Contact">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#1316E4"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+
+    <EditText
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:ems="20"
+        android:hint="Name"
+        android:inputType="text" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="textEmailAddress" />
+
+    <Button
+        android:id="@+id/datetimebtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Date and Time"
+        android:backgroundTint="#1316E4"
+        android:textSize="18dp"/>
+
+    <TextView
+        android:id="@+id/datetime"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+
+        android:hint="Date and Time"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/probleminput"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:hint="Write your problem here"
+        android:inputType="textMultiLine" />
+
+    <Button
+        android:id="@+id/Submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:textSize="18dp"
+        android:backgroundTint="#1316E4"
+        android:layout_gravity="center"
+        android:layout_marginTop="250dp"/>
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

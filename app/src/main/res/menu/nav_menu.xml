@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"></item>
+    <item
+        android:icon="@drawable/book"
+        android:title="NovelReaderApp">
+        <menu>
+            <item
+                android:id="@+id/random"
+                android:title="Random Story"></item>
+
+        </menu>
+    </item>
+    <item
+        android:icon="@drawable/more"
+        android:title="More">
+        <menu>
+            <item
+                android:id="@+id/contact"
+                android:title="Contact Us"></item>
+            <item
+                android:id="@+id/rate"
+                android:title="Rate Us"></item>
+        </menu>
+    </item>
+
+</menu>

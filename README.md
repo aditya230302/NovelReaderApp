@@ -90,21 +90,26 @@ To open a novel, you simply have to tap or click on it. And it will open a new t
 
 
 6.	Returning Home -
-You will see a back arrow in toolbar. By Simply pressing the back arrow you can go back to Home Page. You will also receive a toast message on successful execution of the command.
+You will see a back arrow in toolbar. By Simply pressing the back arrow you can go back to Home Page. 
+You will also receive a toast message on successful execution of the command.
 
 ![image](https://user-images.githubusercontent.com/87848604/235501320-57ff5412-23e3-40cb-9630-e00e4bd860a5.png)
 
 
 
 7.	Swipe-Tab Menu -
-On the Toolbar you will see a Hamburger like icon on the left corner. By pressing that icon you can open the menu or you can also open it by simply swiping from left corner to right.
+On the Toolbar you will see a Hamburger like icon on the left corner. 
+By pressing that icon you can open the menu or you can also open it by simply swiping from left corner to right.
 
 ![image](https://user-images.githubusercontent.com/87848604/235501354-673ab28e-fa0c-428e-9a7b-ce7003589661.png)
 
 
 
 8.	Random Novel -
-In the menu section u can see the icon for Random Story. In case you can’t decide what to read. You just have to click or tab on the ‘Random Story’ and a random story will open. On successful execution it will show a toast message.
+In the menu section u can see the icon for Random Story. 
+In case you can’t decide what to read. 
+You just have to click or tab on the ‘Random Story’ and a random story will open. 
+On successful execution it will show a toast message.
 
 ![image](https://user-images.githubusercontent.com/87848604/235501355-2e93c444-b270-41c1-b18b-2670da2c0bb2.png)
 
@@ -112,7 +117,8 @@ In the menu section u can see the icon for Random Story. In case you can’t dec
 
 
 9.	Contact Us -
-In the Menu you can see a ‘Contact Us’ section. In case of any problem tap or click on that and  you will be forwarded to an email section. It will give a toast message on opening.
+In the Menu you can see a ‘Contact Us’ section. In case of any problem tap or click on that and  you will be forwarded to an email section. 
+It will give a toast message on opening.
 
 ![image](https://user-images.githubusercontent.com/87848604/235501430-48fdd798-355a-41a2-8204-a506ebbaba7e.png)
 
@@ -133,7 +139,8 @@ To select date press ‘Select Date and Time’ and a calendar will open.
 
 
 11.	Time Picker -
-A clock will appear to select Time after the calendar. First select Hour and then Minutes.
+A clock will appear to select Time after the calendar. 
+First select Hour and then Minutes.
 
 ![image](https://user-images.githubusercontent.com/87848604/235501439-72deb83b-8f45-4aa8-ae49-ad08f5bda795.png)
 
@@ -167,7 +174,8 @@ After you fill all the details in ‘Contact Us’ Section and press ‘Submit�
 
 
 14.	Notification Slide Down -
-To see What the Notification is slide down your device’s notification section. If you tap on the notification you will be redirected to the app.
+To see What the Notification is slide down your device’s notification section.
+If you tap on the notification you will be redirected to the app.
 
 ![image](https://user-images.githubusercontent.com/87848604/235501513-abe1eaf9-9479-440e-9953-016877ec1d4f.png)
 
